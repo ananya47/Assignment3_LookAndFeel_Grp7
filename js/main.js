@@ -12,3 +12,4 @@ document.addEventListener('DOMContentLoaded', function() {
 
   ulElement.appendChild(liElement);
 });
+
