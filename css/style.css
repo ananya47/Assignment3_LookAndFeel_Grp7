@@ -20,6 +20,10 @@ body {
 img {
     vertical-align: middle;
 }
+.image{
+    
+    height:400px;
+}
 
 /* Slideshow container */
 .slideshow-container {
